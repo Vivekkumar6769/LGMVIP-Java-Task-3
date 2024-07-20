@@ -39,8 +39,8 @@ A simple text editor application built using Java Swing, providing basic functio
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/Vivekkumar6769/Text-Editor.git
-    cd Text-Editor
+    git clone https://github.com/Vivekkumar6769/LGMVIP-Java-Task-3.git
+    cd LGMVIP-Java-Task-3
     ```
 2. **Compile the code**:
 
