@@ -38,8 +38,8 @@ A simple text editor application built using Java Swing, providing basic functio
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/Vivekkumar6769/java-swing-text-editor.git
-    cd java-swing-text-editor
+    git clone https://github.com/Vivekkumar6769/Text-Editor.git
+    cd Text-Editor
     ```
 2. **Compile the code**:
 
